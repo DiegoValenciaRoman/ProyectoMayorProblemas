@@ -1,0 +1,5 @@
+test_cases:
+  - { in: case1.1.in, out: case1.1.out, points: 25 }
+  - { in: case2.1.in, out: case2.1.out, points: 25 }
+  - { in: case3.1.in, out: case3.1.out, points: 25 }
+  - { in: case4.1.in, out: case4.1.out, points: 25 }
